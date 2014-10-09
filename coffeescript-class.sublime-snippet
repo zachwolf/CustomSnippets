@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[class ${1}
+  constructor : ${2:(${3})} ->
+    ${4}]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>New class snippet</description>
+</snippet>

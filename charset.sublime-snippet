@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<meta charset="utf-8">]]></content>
+	<tabTrigger>charset</tabTrigger>
+	<!-- <scope>source.js,source.js.embedded.html</scope> -->
+	<description>UTF-8</description>
+</snippet>

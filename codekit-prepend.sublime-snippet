@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[# @codekit-prepend "${1}.${2:coffee}";]]></content>
+	<tabTrigger>codekit-prepend</tabTrigger>
+	<scope>source.coffee,source.js,source.js.embedded.html</scope>
+	<description>prepend a file in codekit</description>
+</snippet>

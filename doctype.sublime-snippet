@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<!doctype html public "(╯°□°）╯︵ ┻━┻">]]></content>
+	<tabTrigger>doctype</tabTrigger>
+	<!-- <scope>source.js,source.js.embedded.html</scope> -->
+	<description>Supa' cool doctype!</description>
+</snippet>

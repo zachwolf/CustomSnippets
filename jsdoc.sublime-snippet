@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[/**
+ * ${1:function description}
+ *
+ * @param \{${2:string}\} ${3:foo} - ${4:foo description}
+ * @returns \{${5:string}\}
+ */]]></content>
+	<tabTrigger>jsdoc</tabTrigger>
+	<scope>source.js,source.js.embedded.html</scope>
+	<description>empty jsdoc block</description>
+</snippet>
